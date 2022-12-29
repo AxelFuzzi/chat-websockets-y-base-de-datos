@@ -1,8 +1,8 @@
 {
-  "name": "desafio_7",
+  "name": "desafio_08",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "***IMPORTANTE:**",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelFuzzi/chat-websockets-y-base-de-datos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AxelFuzzi/chat-websockets-y-base-de-datos/issues"
+  },
+  "homepage": "https://github.com/AxelFuzzi/chat-websockets-y-base-de-datos#readme"
 }
